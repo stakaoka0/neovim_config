@@ -1,1 +1,0 @@
-/Users/takaoka/.config/nvim/lua
