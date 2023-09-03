@@ -11,3 +11,4 @@
   lspconfig.lua_ls.setup {}
   lspconfig.marksman.setup {}
   lspconfig.jsonls.setup {}
+  lspconfig.cssls.setup {}
