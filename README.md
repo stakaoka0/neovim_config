@@ -20,7 +20,7 @@ Plugins for Code Completion and Snippets:
 ['hrsh7th/cmp-vsnip'](https://github.com/hrsh7th/cmp-vsnip)  
 ['hrsh7th/vim-vsnip'](https://github.com/hrsh7th/vim-vsnip)  
 
-Plugin for syntax highlight  
+Plugin for syntax highlight:  
 ['nvim-treesitter/nvim-treesitter'](https://github.com/nvim-treesitter/nvim-treesitter)
 
 Plugins for File explorer:  
@@ -28,10 +28,10 @@ Plugins for File explorer:
 ['nvim-tree/nvim-web-devicons'](https://github.com/nvim-tree/nvim-web-devicons)  
 ['nvim-telescopenvim-telescope/telescope-file-browser.nvim'](https://github.com/nvim-telescope/telescope-file-browser.nvim)
 
-Plugin for theme
+Plugin for theme:  
 ['askfiy/visual_studio_code'](https://github.com/askfiy/visual_studio_code)
 
-Plugin for statusline
+Plugin for statusline:  
 ['nvim-lualine/lualine.nvim'](https://github.com/nvim-lualine/lualine.nvim)
 
 
